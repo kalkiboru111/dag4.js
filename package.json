@@ -28,7 +28,7 @@
     "url": "https://github.com/StardustCollective/dag4.js/issues"
   },
   "dependencies": {
-    "@stardust-collective/dag4-core": "^1.0.5",
+    "@stardust-collective/dag4-core": "file:packages/dag4-core",
     "@stardust-collective/dag4-keystore": "^1.0.11",
     "@stardust-collective/dag4-network": "^1.0.12",
     "@stardust-collective/dag4-wallet": "^1.0.21"
